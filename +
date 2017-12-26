@@ -1,0 +1,5 @@
+.blog, .news { background-image: url(/sprite.png):}
+.blog {backgrouond-position: 0px 0px }
+.blog.blog {backgrouond-position: 0px 0px }
+
+hello wodd dddhhh
