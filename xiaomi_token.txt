@@ -1,0 +1,6 @@
+name	mac	token
+多功能网关	34:CE:00:8B:E6:EF	88fb73609af1b4e016cbdcf07ef20efb
+Yeelight 彩光灯泡	78:11:DC:6A:81:8C	733a6e3038e03df62e962eb8a75bfc60
+Xiaomi_70EE	28:6C:07:69:70:F0	FBh9Ln5CNpfPrRu4ETP+pcijkho+kUR84ZTaXbYvNb0=
+米家空调伴侣	34:CE:00:96:11:FA	d47ed53ece31e0457b0b5395e940b5db
+米家声波电动牙刷	EE:55:65:F8:A2:5F	9598d69f9d4c025ffbd17762

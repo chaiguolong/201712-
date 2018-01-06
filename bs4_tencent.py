@@ -41,14 +41,16 @@ def tencent():
 
         items.append(item)
 
-        # 禁用ascii编码，按utf-8编码
-        line = json.dumps(items, ensure_ascii=False)
 
-        output.write(line.encode('utf-8'))
-        output.close()
+    # 禁用ascii编码，按utf-8编码
+    line = json.dumps(items, ensure_ascii=False)
+
+    output.write(line.encode('utf-8'))
+    output.close()
 
 
-if __name__ == ''
+if __name__ == '__main__':
+    tencent()
 
 
 
